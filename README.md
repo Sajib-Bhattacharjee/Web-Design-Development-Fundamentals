@@ -1,7 +1,7 @@
 <p>
   <figure>
-    &nbsp;&nbsp;&nbsp; <img src="./images/logo.jpg" alt="Fundamentals of Web-Development logo" border="2" width="600" 
-    height="200" />
+    &nbsp;&nbsp;&nbsp; <img src="./images/logo.jpg" alt="Fundamentals of Web-Development logo" border="2" width="100%" 
+    height="100%" />
     <figcaption>&nbsp;&nbsp;&nbsp; Image - Web Technology Fundamentals </figcaption>
   </figure>
 </p>
