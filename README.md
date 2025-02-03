@@ -956,12 +956,22 @@ A semantic markup language containing rules for defining document structure and 
 
 Congratulations! You have completed the Web Design Development Foundation-Web Technology Fundamentals lesson. Thank You for looking into Web Fundamentals. Now you have a good idea of how the web works and the technologies behind the web. Your next step could be Mastering HTML/HTML5 - the Markup language. Let's begin your web design-development journey with [Learn HTML5](https://github.com/Sajib-Bhattacharjee/HTML-Documentation). Best of Luck! Happy Learning!
 
-### `Collected`
+---
 
-### `Created By-->`
+<div align="center">
 
-**`-Sajib Bhattacharjee`**
+##### 🛡️ `All rights reserved by Sajib Bhattacharjee @2025`
 
-**`Dedicated for 💕"Zahan" 💕`**
+### 👨‍💻 `Created with ❤️ by -->`
 
-> > ### Thanks A Lot For Visiting...!!!
+✨ **Sajib Bhattacharjee** ✨
+
+**💖 Dedicated to "Sir! Anisul Islam" 💖**
+
+> > > > ### 🙏 Thanks a Lot for Visiting...!!!
+
+🌐 [**Portfolio & Projects**](https://github.com/Sajib-Bhattacharjee)  
+💼 [**LinkedIn**](https://www.linkedin.com/in/sajib-bhattacharjee-42682a178/)  
+📧 [**Contact Me**](mailto:sajibbhattacjarjee2000@gmail.com)
+
+</div>
